@@ -4,10 +4,6 @@ I am a senior backend software engineer in Vancouver, focused on Python
 services, data-intensive systems, production reliability, and engineering
 platforms.
 
-Most of my professional work is in private company repositories. My day-to-day
-work includes backend APIs, relational and document databases, background
-processing, deployment automation, and operating production services.
-
 ## Selected projects
 
 - [docker-seafile-client](https://github.com/snegov/docker-seafile-client) - A
