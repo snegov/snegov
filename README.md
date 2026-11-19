@@ -1,4 +1,4 @@
-# Maksim Shulga
+# Max Shulga
 
 I am a senior backend software engineer in Vancouver, focused on Python
 services, data-intensive systems, production reliability, and engineering
